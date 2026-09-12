@@ -18,7 +18,7 @@ Tic-Tac-Toe Game
 Age calculator  
 Countdown to New Year
 ********* 
-### My code 
+## My code 
 ```javascript 
     const btn = document.querySelector("button");
 
