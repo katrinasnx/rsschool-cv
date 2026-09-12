@@ -13,6 +13,7 @@ Web Development: OOP, DOM Manipulation, REST APIs (Fetch), Node.js
 Tools: Git, GitHub, MySQL, MarkDown
 ********* 
 ## Projects
+__[Web Application](https://katrinasnx.github.io/weather-app/)__  
 Tic-Tac-Toe Game  
 Age calculator  
 Countdown to New Year
