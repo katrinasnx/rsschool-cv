@@ -2,21 +2,17 @@
 ## Contact Information
 GitHub: [katrinasnx](https://github.com/katrinasnx)  
 Email: katiahubenka@gmail.com
-***
 ## About me
 Software Engineering student. I like maths, computer science, fashion and chess. Open to new opportunities and cooperation in interesting projects.
-***
 ## Skills
 Languages: JavaScript, C#, HTML5, CSS, PHP, SQL  
 Web Development: OOP, DOM Manipulation, REST APIs (Fetch), Node.js  
 Tools: Git, GitHub, MySQL, MarkDown
-***
 ## Projects
 __[Web Application](https://katrinasnx.github.io/weather-app/)__  
 Tic-Tac-Toe Game  
 Age calculator  
 Countdown to New Year
-*** 
 ## My code 
 ```javascript 
     const btn = document.querySelector("button");
@@ -44,10 +40,8 @@ Countdown to New Year
 	}
 }); 
 ```
-***
 ## Education
 Technical High School Complex No.2 – *Katowice Software Developer (Technik Programista)* | 09.2024 – Present
-*** 
 ## Langueges
 __Polish__: B2  
 __Russian__: Native  
