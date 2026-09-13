@@ -1,3 +1,90 @@
 body{
     margin: 0;
+    color:white;
+    display: flex;
+  justify-content: center;
+  align-items: center; 
+  font-family: sans-serif;
+}
+
+.cv{
+    padding-top: 20px;
+    background-color: rgb(108, 124, 85); 
+    margin-top: 40px;
+    border-radius:50px;
+    width: 1000px;
+}
+ h1{
+    text-align: center;
+    font-size: 30px;
+ }
+.menu{
+    justify-content: space-around;
+    display: flex;
+  flex-direction: row;
+  padding: 5px 15px;
+  margin: 0px;
+  list-style-type: none;
+    text-align: center;
+}
+
+.menu a {
+    margin-left: -15px;
+    text-decoration: none;
+    color: white;
+    font-size: 22px;
+}
+
+.section1 , .section2 , .section3{
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: center;
+  align-items: center; 
+}
+
+p , li{
+    font-size: 18px;
+}
+
+img{
+    width: 300px;
+    border-radius: 25px;
+}
+
+h2{
+    text-align: center;
+}
+
+.right{
+    width: 400px;
+    padding-left: 80px;
+}
+
+.right2{
+    width:300px;
+    padding-left: 30px;
+}
+
+.projects{
+    margin-left: 40px;
+}
+
+.my-code{
+  width: 450px;
+  padding-right: 20px;
+}
+
+.code{
+    height: 200px;
+    padding-left: 20px;
+    border: 1px solid palegoldenrod;
+    border-radius: 25px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.contact li{
+    list-style-type: none;
 }
